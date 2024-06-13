@@ -1,0 +1,8 @@
+.barra_superior {
+    background-color: var(---3);
+    color: white;
+}
+
+.barra_superior .titulo {
+    color: black;
+}

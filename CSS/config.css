@@ -1,0 +1,10 @@
+body {
+    background-color: var(---color1);
+}
+
+:root {
+    ---color1: white;
+    ---color2: blue;
+    ---color3: rgb(13, 13, 208);
+    ---color4: rgb(8, 6, 123);
+}
